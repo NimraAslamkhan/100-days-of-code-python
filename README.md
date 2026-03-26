@@ -176,6 +176,3 @@ This is not just a course follow-through — it reflects **my implementation, ex
 
 ---
 
-
-
-## 📂 Repository Structure
